@@ -46,8 +46,10 @@ of log entries.
         Password Strength VERY GOOD
 
     python3 passwordChecker.py
-    >>> Enter Your Password =mus@123
-        Password Strength GOOD
+    >>> Enter Your Password =xyz
+        Password Strength LOW
+        Password should have atleast 8 characters
+        Password should contains atleast 2 special characters
     
     ```
 ### File Parsing
