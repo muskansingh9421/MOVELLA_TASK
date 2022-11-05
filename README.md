@@ -55,7 +55,7 @@ of log entries.
 ### File Parsing
     ```
     python3 fileParsing.py
-    >>>Enter filename :abc
+    >>>Enter filename :xyz
     File Doesnt Exist
 
     python3 fileParsing.py
