@@ -35,17 +35,17 @@ of log entries.
 
 ### Password checker
     ```
-    python3 passwordChecker.py
+    python3 password_checker.py
     >>> Enter Your Password =xyz123
         Password Strength AVERAGE
         Password should have atleast 8 characters
         Password should contains atleast 2 special characters
 
-    python3 passwordChecker.py
+    python3 password_checker.py
     >>> Enter Your Password =muskan@123%
         Password Strength VERY GOOD
 
-    python3 passwordChecker.py
+    python3 password_checker.py
     >>> Enter Your Password =xyz
         Password Strength LOW
         Password should have atleast 8 characters
@@ -54,15 +54,15 @@ of log entries.
     ```
 ### File Parsing
     ```
-    python3 fileParsing.py
+    python3 file_parsing.py
     >>>Enter filename :xyz
     File Doesnt Exist
 
-    python3 fileParsing.py
+    python3 file_parsing.py
     >>>Enter filename :
     Filename should not be Blank
 
-    python3 fileParsing.py
+    python3 file_prsing.py
     >>>Enter filename :log.txt  // will create file with required data
     Process Done!
     
