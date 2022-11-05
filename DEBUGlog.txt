@@ -1,0 +1,3 @@
+DEBUG   -   2007-03-19 16:10:26,618 - good_example - debug message
+DEBUG   -   2007-03-19 16:10:26,695 - good_example - warn message
+DEBUG   -   2007-03-19 16:10:26,618 - good_example - info message

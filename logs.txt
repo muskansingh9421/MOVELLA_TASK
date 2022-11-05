@@ -1,0 +1,9 @@
+DEBUG   -   2007-03-19 16:10:26,618 - good_example - debug message
+INFO    -   2007-03-19 16:10:26,620 - good_example - info message
+DEBUG   -   2007-03-19 16:10:26,695 - good_example - warn message
+INFO    -   2007-03-19 16:10:26,620 - good_example - info message
+ERROR   -   2007-03-19 16:10:26,697 - good_example - error message
+INFO    -   2007-03-19 16:10:26,620 - good_example - info message
+ERROR   -   2007-03-19 16:10:26,773 - good_example - critical message
+DEBUG   -   2007-03-19 16:10:26,618 - good_example - info message
+ERROR   -   2007-03-19 16:10:26,773 - good_example - good message

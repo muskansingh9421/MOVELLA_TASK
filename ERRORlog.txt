@@ -1,0 +1,3 @@
+ERROR   -   2007-03-19 16:10:26,697 - good_example - error message
+ERROR   -   2007-03-19 16:10:26,773 - good_example - critical message
+ERROR   -   2007-03-19 16:10:26,773 - good_example - good message
